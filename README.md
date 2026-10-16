@@ -1,68 +1,84 @@
-<h1 data-importer="text" align="center">Olá! Seja bem vindo!</h1>
+<h1 align="center">Olá, eu sou Gabriel Marciel 👋</h1>
 
-###
+<p align="center">
+  <strong>Desenvolvimento web · Infraestrutura · Automação</strong>
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="60" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/gabrielmarciel93/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielmarciel93/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conecte-se comigo no LinkedIn">
   </a>
-</div>
+</p>
 
-###
+## Sobre mim
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gabrielmarciel93&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+Meu foco está na conexão entre desenvolvimento web e infraestrutura, combinando aplicações, automação de rotinas e ambientes em nuvem.
 
-###
+Meus principais interesses são:
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+- **Desenvolvimento web:** aplicações com PHP e JavaScript, além do ecossistema WordPress.
+- **Infraestrutura e automação:** Linux, containers, orquestração e infraestrutura como código.
+- **Cloud e observabilidade:** serviços em nuvem, métricas e monitoramento de ambientes.
 
-###
+## Tecnologias e ferramentas
+
+### Desenvolvimento web e linguagens
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="42" height="42" alt="WordPress" title="WordPress">
+  <img src="https://skillicons.dev/icons?i=go" width="42" height="42" alt="Go" title="Go">
+  <img src="https://skillicons.dev/icons?i=py" width="42" height="42" alt="Python" title="Python">
+</p>
+
+### Infraestrutura e automação
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="42" height="42" alt="Debian Linux" title="Debian Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="42" height="42" alt="Apache HTTP Server" title="Apache HTTP Server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="42" height="42" alt="Ansible" title="Ansible">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="42" height="42" alt="Argo CD" title="Argo CD">
+</p>
+
+### Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="Amazon Web Services" title="Amazon Web Services">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Microsoft Azure" title="Microsoft Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" height="42" alt="Google Cloud" title="Google Cloud">
+</p>
+
+### Observabilidade
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42" height="42" alt="Prometheus" title="Prometheus">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana" title="Grafana">
+</p>
+
+## Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/stats-output/stats.svg" width="49%" alt="Estatísticas públicas de Gabriel Marciel no GitHub">
+  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/languages-output/languages.svg" width="49%" alt="Linguagens mais presentes nos repositórios públicos de Gabriel Marciel">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/activity-graph-output/activity-graph.svg" width="100%" alt="Gráfico de contribuições recentes no GitHub">
+</p>
+
+<details>
+  <summary>🕹️ Minhas contribuições em modo arcade</summary>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Animação do Pac-Man percorrendo meu calendário de contribuições">
+  </picture>
+</details>
+
+<!-- Os gráficos são gerados pelo GitHub Actions e publicados nas branches de saída deste repositório. -->
