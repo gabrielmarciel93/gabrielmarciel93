@@ -63,7 +63,7 @@ Meus principais interesses são:
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/stats-output/stats.svg" width="49%" alt="Estatísticas públicas de Gabriel Marciel no GitHub">
+  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/refs/heads/stats-output/stats.svg" width="49%" alt="Estatísticas públicas de Gabriel Marciel no GitHub">
   <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/languages-output/languages.svg" width="49%" alt="Linguagens mais presentes nos repositórios públicos de Gabriel Marciel">
 </p>
 
