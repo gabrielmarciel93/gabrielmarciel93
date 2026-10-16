@@ -33,6 +33,13 @@ Meus principais interesses são:
   <img src="https://skillicons.dev/icons?i=py" width="42" height="42" alt="Python" title="Python">
 </p>
 
+### Versionamento e colaboração
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" title="GitHub">
+</p>
+
 ### Infraestrutura e automação
 
 <p>
