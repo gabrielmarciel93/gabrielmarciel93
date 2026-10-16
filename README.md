@@ -79,14 +79,12 @@ Meus principais interesses são:
   <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/activity-graph-output/activity-graph.svg" width="100%" alt="Gráfico de contribuições recentes no GitHub">
 </p>
 
-<details>
-  <summary>🕹️ Minhas contribuições em modo arcade</summary>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Animação do Pac-Man percorrendo meu calendário de contribuições">
-  </picture>
-</details>
+## 🕹️ Minhas contribuições em modo arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Animação do Pac-Man percorrendo meu calendário de contribuições">
+</picture>
 
 <!-- Os gráficos são gerados pelo GitHub Actions e publicados nas branches de saída deste repositório. -->
