@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="165"
+  viewBox="0 0 445 165" role="img" aria-labelledby="title description">
+  <title id="title">GitHub em números</title>
+  <desc id="description">Estatísticas públicas de gabrielmarciel93: Repositórios públicos: 16; Estrelas recebidas: 0; Forks recebidos: 0; Seguidores: 18</desc>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, sans-serif; }
+    .heading { font-size: 18px; font-weight: 600; fill: #ff6e96; }
+    .label { font-size: 14px; fill: #f8f8f2; }
+    .value { font-size: 14px; font-weight: 600; fill: #79dafa; text-anchor: end; }
+  </style>
+  <rect width="445" height="165" rx="5" fill="#282a36"/>
+  <text x="25" y="35" class="heading">GitHub em números</text>
+  <text x="25" y="65" class="label">Repositórios públicos</text><text x="420" y="65" class="value">16</text>
+  <text x="25" y="90" class="label">Estrelas recebidas</text><text x="420" y="90" class="value">0</text>
+  <text x="25" y="115" class="label">Forks recebidos</text><text x="420" y="115" class="value">0</text>
+  <text x="25" y="140" class="label">Seguidores</text><text x="420" y="140" class="value">18</text>
+</svg>
