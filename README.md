@@ -87,4 +87,6 @@ Meus principais interesses são:
   <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Animação do Pac-Man percorrendo meu calendário de contribuições">
 </picture>
 
+[![Trilha da carreira](https://github-timeline.frangolab.com/embed/gabrielmarciel93/trilha.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/gabrielmarciel93?lang=pt-BR)
+
 <!-- Os gráficos são gerados pelo GitHub Actions e publicados nas branches de saída deste repositório. -->
