@@ -79,6 +79,10 @@ Meus principais interesses são:
   <img src="https://raw.githubusercontent.com/gabrielmarciel93/gabrielmarciel93/activity-graph-output/activity-graph.svg" width="100%" alt="Gráfico de contribuições recentes no GitHub">
 </p>
 
+## Minhas Linguagens
+
+[![Rio de linguagens](https://github-timeline.frangolab.com/embed/gabrielmarciel93/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/gabrielmarciel93?lang=pt-BR)
+
 ## 🕹️ Minhas contribuições em modo arcade
 
 <picture>
